@@ -27,6 +27,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KimKhanhDo&theme=default&hide_border=true)](https://git.io/streak-stats)
 
-![KimKhanhDo's GitHub Activity](https://ghchart.rshah.org/KimKhanhDo)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KimKhanhDo&theme=minimal&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
